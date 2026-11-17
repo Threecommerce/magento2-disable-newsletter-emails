@@ -4,6 +4,13 @@ All notable changes to this module are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5] - 2026-11-17
+
+### Changed
+- LICENSE file in the package root.
+- `module.xml` declares the load order after the Magento modules the extension uses.
+- `composer.json`: explicit version constraints for PHP and the Magento modules it uses.
+
 ## [1.0.4] - 2026-07-09
 
 ### Fixed
