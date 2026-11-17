@@ -4,6 +4,11 @@ All notable changes to this module are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.6] - 2026-11-17
+
+### Fixed
+- PHP 8.1 supported again (the previous version required PHP 8.2 by mistake), for Magento 2.4.4 – 2.4.6.
+
 ## [1.0.5] - 2026-11-17
 
 ### Changed
