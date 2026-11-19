@@ -4,7 +4,7 @@ Selectively disable the transactional emails Magento sends for newsletter subscr
 
 ![Newsletter configuration in the Magento admin with the Newsletter Emails section](images/newsletter-emails-config.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Themes: Luma, Hyvä, Breeze
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Themes: Luma, Hyvä, Breeze
 **License:** free · **Current version:** see [Releases](../../releases)
 
 ## Features
@@ -16,7 +16,7 @@ Selectively disable the transactional emails Magento sends for newsletter subscr
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Native module: `Magento_Newsletter`
 - Package: `threecommerce/m2-base` (installed automatically by Composer)
 
